@@ -1,27 +1,9 @@
 # Chocolatey Workshop - Internalizer
 
-This is the material for the workshop "Setting up Internal Chocolatey Deployments" written by Gary Ewan Park and Paul Broadwith.
+This fork used to contain all the files for a Chocolatey Internalizer Workshop.
 
-## Content
+These files have since moved to here:
 
-- TBD
+https://github.com/chocolatey/chocolatey-workshop-internalizer
 
-## Workshop slides
-
-- The slides for this presentation can be found here [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/chocolatey/chocolatey-workshop-internalizer/master)
-
-## Past workshops
-
-## Running the workshop
-
-- Prepare a couple of Win2016 VM's in in your favourite cloud.
-- You can use the Terraform templates in the `prepare-vms` folder to create VM's in Azure or AWS.
-- Check and increase your limits two weeks before running the workshop.
-- Check and ask in advance if your workshop location allows outgoing RDP connections at port 3389.
-
-## Problems? Questions? Feedback welcome
-
-- If you have problems, found a bug or have questions, don't hesitate to contact us.
-- Open an issue in this repository or send me a pull request.
-
-Have fun!
+If you have landed on this repository, then please use the above link.
